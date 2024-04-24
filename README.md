@@ -4,3 +4,7 @@
     - guest: -> Username dari user
     - @localhost -> histname dari user tersebut
     - 5672 -> port number dari host tersebut
+  
+![alt text](/spike.png)
+![alt text](/slowsub.png)
+![alt text](/reduced.png)
